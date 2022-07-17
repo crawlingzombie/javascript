@@ -13,8 +13,12 @@ const fecha= {
 }
 console.log (fecha)
 
-const libro_favorito = "Dago - El esclavo";
-
+const libro_favorito = {
+    titulo: "Dago- El esclavo",
+    autor: "Robin Wood",
+    fecha: "Diciembre de 1990",
+    url: "https://www.facebook.com/media/set/?set=a.1391812607616483&type=3"
+}
 
 
 
